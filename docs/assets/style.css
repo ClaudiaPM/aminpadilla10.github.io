@@ -93,12 +93,15 @@ h6 {
 	  border-radius:190px;
   }
 
-  .linktree {
-	  width: 120px;
-	  height: 120px;
-	  background-image: url("https://avatars.githubusercontent.com/u/22948266?v=4");
-	  background-size: cover;
-	  background-repeat: no-repeat;
-	  background-position: 50% 50%;
-  }
+.linktree {
+	width: 120px;
+	height: 120px;
+	background-image: url("https://avatars.githubusercontent.com/u/22948266?v=4");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
   
