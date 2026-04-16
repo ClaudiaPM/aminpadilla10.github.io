@@ -62,8 +62,15 @@ h6 {
   }
   .element {
 	margin: 0 auto;
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	background-image: url("https://avatars.githubusercontent.com/u/22948266?v=4");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 100px;
+	box-shadow: 0px 2px 10px #111;
 	background: red;
   }
   @keyframes shake-animation {
